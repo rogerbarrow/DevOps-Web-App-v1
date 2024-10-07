@@ -37,6 +37,8 @@ The main goal of this project is to implement DevOps practices in the Go web app
 ![image](https://github.com/user-attachments/assets/d68e0f67-f370-40bc-8961-9b63ead43105)
 # Create service pod
 ![image](https://github.com/user-attachments/assets/ba60dfb3-50ec-472f-a0e0-d4ae6b921e5f)
+# Get the Node IP address and Cluster IP
+![image](https://github.com/user-attachments/assets/caeef347-1c01-4168-bfe6-3bc77a9485be)
 
 
 
