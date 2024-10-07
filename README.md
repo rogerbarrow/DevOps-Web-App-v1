@@ -47,6 +47,7 @@ The main goal of this project is to implement DevOps practices in the Go web app
  ![image](https://github.com/user-attachments/assets/c177fdd9-34ff-4743-bd3a-4417915366f0)
 # Create a Helm Chart using the Helm Command 
 ![image](https://github.com/user-attachments/assets/35b97de9-855d-4b88-a38c-96b0742acf2d)
+![image](https://github.com/user-attachments/assets/8ee28a9b-1f27-491c-a3e4-110a7ab14191)
 
 
 
