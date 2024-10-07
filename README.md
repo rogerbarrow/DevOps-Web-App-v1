@@ -39,6 +39,8 @@ The main goal of this project is to implement DevOps practices in the Go web app
 ![image](https://github.com/user-attachments/assets/ba60dfb3-50ec-472f-a0e0-d4ae6b921e5f)
 # Get the Node IP address and Cluster IP
 ![image](https://github.com/user-attachments/assets/caeef347-1c01-4168-bfe6-3bc77a9485be)
+# Your application is now running on a Kubernetes Cluster
+![image](https://github.com/user-attachments/assets/9afc763d-5f6f-4e23-bdc4-7ebcc8bc3f95)
 
 
 
