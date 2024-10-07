@@ -10,4 +10,6 @@ The main goal of this project is to implement DevOps practices in the Go web app
 ![image](https://github.com/user-attachments/assets/99b3c34b-80de-451a-a628-e3f36ccffcfa)
 # Step 1. Clone you App locally via the Git Clone command
 ![image](https://github.com/user-attachments/assets/d27c82ad-9b41-4929-8cf0-c8d871c83b18)
+# Step 2. Step 2: Open the Application I will be using VScode
+![image](https://github.com/user-attachments/assets/0b80916e-26d2-42cf-ab0d-07b077d97150)
 
