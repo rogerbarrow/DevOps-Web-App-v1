@@ -42,6 +42,9 @@ The main goal of this project is to implement DevOps practices in the Go web app
 # Your application is now running on a Kubernetes Cluster
 ![image](https://github.com/user-attachments/assets/9afc763d-5f6f-4e23-bdc4-7ebcc8bc3f95)
 
+ # Next Install Nginx Ingress Controller on AWS
+ ![image](https://github.com/user-attachments/assets/6f0bfcff-0749-4871-86b1-80a538b8d9ae)
+
 
 
 
