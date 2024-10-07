@@ -21,6 +21,19 @@ The main goal of this project is to implement DevOps practices in the Go web app
 # Go to Localhost to verify that your App Containerized and Running
 # Step 5  Step 3 Push the Docker image to Docker Hub Repository
 ![image](https://github.com/user-attachments/assets/c561550a-c89c-49b7-9664-7137c12bf19e)
+# Step 6  Next we will write the Kubernetes Manifest File. First we will Create a Deployment.yaml
+![image](https://github.com/user-attachments/assets/f7268afb-6176-47b0-8838-3d267ec3bcef)
+# Step 7 Then we create a service.yaml
+![image](https://github.com/user-attachments/assets/8097d262-5d75-4bd8-9804-a7a6dbb7747d)
+# Step 8 After we will now create a ingress.yaml file
+![image](https://github.com/user-attachments/assets/bac63544-697b-4311-aa65-e0af1a2f0f1d)
+# Next Create a EKS Cluster Login to AWS using aws configure
+![image](https://github.com/user-attachments/assets/f0c661d3-2fb7-4392-b912-c4861eca1b32)
+![image](https://github.com/user-attachments/assets/9160d5fe-91dc-462e-91d3-912b1aa0cfff)
+![image](https://github.com/user-attachments/assets/62afc920-9d02-4cf1-89da-424a2a5318ab)
+
+
+
 
 
 
