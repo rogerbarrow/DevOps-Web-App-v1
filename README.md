@@ -17,7 +17,7 @@ The main goal of this project is to implement DevOps practices in the Go web app
 # Step 4. Run your Docker build -t Command and Docker run Command
 ![image](https://github.com/user-attachments/assets/068c1128-ab74-4b78-833c-cca6c3fe8495)
 ![image](https://github.com/user-attachments/assets/49fe083e-5c90-44ef-9d07-c3473a3334c5)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/3f8aa7b1-5a39-4d01-87f2-1134ad4febb0)
 
 
 
