@@ -12,4 +12,6 @@ The main goal of this project is to implement DevOps practices in the Go web app
 ![image](https://github.com/user-attachments/assets/d27c82ad-9b41-4929-8cf0-c8d871c83b18)
 # Step 2. Step 2: Open the Application I will be using VScode
 ![image](https://github.com/user-attachments/assets/0b80916e-26d2-42cf-ab0d-07b077d97150)
+# Step 3. Step 3: Create and Write the Multi Stage Dockerfile
+![image](https://github.com/user-attachments/assets/5b3f3229-2fbe-4bc0-a42d-9a033ffee144)
 
