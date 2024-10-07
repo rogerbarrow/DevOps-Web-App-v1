@@ -45,6 +45,8 @@ The main goal of this project is to implement DevOps practices in the Go web app
  # Next Install Nginx Ingress Controller on AWS
  ![image](https://github.com/user-attachments/assets/6f0bfcff-0749-4871-86b1-80a538b8d9ae)
  ![image](https://github.com/user-attachments/assets/c177fdd9-34ff-4743-bd3a-4417915366f0)
+# Create a Helm Chart using the Helm Command 
+![image](https://github.com/user-attachments/assets/35b97de9-855d-4b88-a38c-96b0742acf2d)
 
 
 
