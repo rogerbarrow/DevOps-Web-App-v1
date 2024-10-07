@@ -10,8 +10,14 @@ The main goal of this project is to implement DevOps practices in the Go web app
 ![image](https://github.com/user-attachments/assets/99b3c34b-80de-451a-a628-e3f36ccffcfa)
 # Step 1. Clone you App locally via the Git Clone command
 ![image](https://github.com/user-attachments/assets/d27c82ad-9b41-4929-8cf0-c8d871c83b18)
-# Step 2. Step 2: Open the Application I will be using VScode
+# Step 2.  Open the Application I will be using VScode
 ![image](https://github.com/user-attachments/assets/0b80916e-26d2-42cf-ab0d-07b077d97150)
-# Step 3. Step 3: Create and Write the Multi Stage Dockerfile
+# Step 3. Create and Write the Multi Stage Dockerfile
 ![image](https://github.com/user-attachments/assets/5b3f3229-2fbe-4bc0-a42d-9a033ffee144)
+# Step 4. Run your Docker build -t Command and Docker run Command
+![image](https://github.com/user-attachments/assets/068c1128-ab74-4b78-833c-cca6c3fe8495)
+![image](https://github.com/user-attachments/assets/49fe083e-5c90-44ef-9d07-c3473a3334c5)
+![Uploading image.png…]()
+
+
 
