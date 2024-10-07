@@ -6,3 +6,5 @@ The main goal of this project is to implement DevOps practices in the Go web app
 2. Containerization
 3. Continuous Integration (CI)
 4. Continuous Deployment (CD)
+# Summary Diagram
+![image](https://github.com/user-attachments/assets/99b3c34b-80de-451a-a628-e3f36ccffcfa)
