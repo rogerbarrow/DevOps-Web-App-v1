@@ -27,7 +27,7 @@ jobs:
         go-version: 1.22
 
     - name: Build
-      run: go build -o go-devops-app
+      run: go build -o go-web-app
 
     - name: Test
       run: go test ./...
@@ -87,7 +87,7 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        git config --global user.email "rogerbarrow86.com"
+        git config --global user.email "rogerbarrow86@gmail.com"
         git config --global user.name "Roger Barrow"
         git add helm/go-web-app-chart/values.yaml
         git commit -m "Update tag in Helm chart"
