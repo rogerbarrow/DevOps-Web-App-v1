@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: go-devops-app
+  labels:
+    app: go-devops-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: go-devops-app
+  template:
+    metadata:
+      labels:
+        app: go-devops-app
+    spec:
+      containers:
+      - name: go-devops-app
+        image: rbarrow612/go-devops-app:{{ .Values.image.tag }}
+        ports:
+        - containerPort: 8080
