@@ -27,7 +27,7 @@ jobs:
         go-version: 1.22
 
     - name: Build
-      run: go build -o DevOps-Web-App-v1
+      run: go build -o DevOps-Web-App-v1/go-devops-app
 
     - name: Test
       run: go test ./...
